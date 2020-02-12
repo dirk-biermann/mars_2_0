@@ -1,0 +1,14 @@
+#game-board, #game-info{
+    margin: 10px;
+    position: relative;
+}
+
+#game-board canvas {
+    position: absolute;
+}
+
+.sand-img{
+    background-image: url(../images/sand.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
